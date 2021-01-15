@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="거북이와.c" />
     <ClCompile Include="김수한무.c" />
+    <ClCompile Include="동방삭.c" />
     <ClCompile Include="두루미.c" />
     <ClCompile Include="삼천갑자.c" />
   </ItemGroup>

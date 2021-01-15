@@ -27,5 +27,8 @@
     <ClCompile Include="삼천갑자.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="동방삭.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
